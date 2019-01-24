@@ -1,0 +1,28 @@
+
+body{
+	background: #A9A9A9;
+
+
+	
+}
+p {
+  text-align: center;
+  border: 2px solid #DCA4F8;
+  box-shadow: 0 0 5px 3px;
+  margin-left: 50px;
+
+  
+
+  font-size: 60px;
+
+}
+#decompte{
+
+	border: 2px solid #DCA4F8;
+	box-shadow: 0 0 5px 3px;
+	 margin-left: 50px;
+
+
+
+
+}
